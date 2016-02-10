@@ -1,0 +1,20 @@
+name: Ivan
+group: maths
+grade: 6.00
+
+name: Pesho
+group: maths
+grade: 4.10
+
+name: Hristo
+group: english
+grade: 5.20
+
+
+name: Tosho
+group: english
+grade: 3.30
+
+name: Maria
+group: geography
+grade: 6.00

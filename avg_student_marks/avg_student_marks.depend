@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1455110845 source:c:\users\aleksandar\desktop\avg_student_marks\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"Student.h"
+	<map>
+	<list>
+	<algorithm>
+	<vector>
+
+1455107938 source:c:\users\aleksandar\desktop\avg_student_marks\student.cpp
+	"Student.h"
+
+1455107947 c:\users\aleksandar\desktop\avg_student_marks\student.h
+	<iostream>
+

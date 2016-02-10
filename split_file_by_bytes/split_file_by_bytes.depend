@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455034161 source:c:\users\aleksandar\desktop\split_file_by_bytes\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<sstream>
+
