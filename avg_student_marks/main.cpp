@@ -113,9 +113,6 @@ int main() {
                     name = "";
                     grade = "";
                 }
-
-                cout << endl;
-
             }
 
       } else {

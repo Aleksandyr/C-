@@ -15,3 +15,19 @@
 1455107947 c:\users\aleksandar\desktop\avg_student_marks\student.h
 	<iostream>
 
+1455146841 source:e:\cpp\avg_student_marks\student.cpp
+	"Student.h"
+
+1455146841 e:\cpp\avg_student_marks\student.h
+	<iostream>
+
+1455147612 source:e:\cpp\avg_student_marks\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"Student.h"
+	<map>
+	<list>
+	<algorithm>
+	<vector>
+
